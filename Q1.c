@@ -14,5 +14,5 @@ void main()
     double m1=-b/a;
     double m2=-e/d;
     angle_at_chowk=find_angle(m1,m2);
-    printf("Angle between roads having equations 5x+y-3=0 and 2x+3y+1=0 is %g degrees",angle_at_chowk);
+    printf("Angle between roads is %g degrees",angle_at_chowk);
 }
